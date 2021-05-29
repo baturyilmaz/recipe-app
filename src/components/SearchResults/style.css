@@ -1,0 +1,7 @@
+.search-results.container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 3rem 0;
+}
